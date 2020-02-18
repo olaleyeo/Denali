@@ -1,3 +1,7 @@
-.row {
-    padding: 0px 238px;
+body {
+    background-color: whitesmoke;
 }
+.row {
+    padding: 30px 238px;
+    background-color: white;
+    }
