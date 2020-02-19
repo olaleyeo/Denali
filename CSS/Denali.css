@@ -1,6 +1,9 @@
 body {
     background-color: whitesmoke;
 }
+a {
+    color: #555555;
+}
 .main {
     padding: 0px 500px;
 }
@@ -14,6 +17,7 @@ body {
 }
 .radius {
     text-align: center;
+    padding: 10px;
 }
 .bd1 {
     display: inline-block;
@@ -26,8 +30,7 @@ body {
 .bd2 {
     display: inline-block;
     width: 650px;
-    margin: 20px;
-    background-color: white;
+    margin: 30px 20px;
     border-width: 2px;
     padding: 8px;
     float: right;
@@ -47,5 +50,7 @@ body {
 }
 .bd4 {
     display: inline-block;
-    padding: 6px;
+    padding: 10px;
+    background-color: #ffffff;
+    margin-bottom: 15px;
 }
