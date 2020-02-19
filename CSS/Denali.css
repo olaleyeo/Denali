@@ -22,8 +22,26 @@ body {
 }
 .bd2 {
     display: inline-block;
+    width: 650px;
     margin: 20px;
     background-color: white;
     border-width: 2px;
     padding: 8px;
+    float: right;
+}
+.rm {
+    text-decoration: underline;
+    
+}
+.img2 {
+    display: inline-block;
+    width: 25%;
+}
+.bd3 {
+    display: inline-block;
+    width: 70%;
+    float: right;
+}
+.bd4 {
+    display: inline-block;
 }
