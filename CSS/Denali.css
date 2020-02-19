@@ -5,3 +5,18 @@ body {
     padding: 30px 238px;
     background-color: white;
     }
+    
+.radius img {
+    border-radius: 200px;
+}
+.radius {
+    text-align: center;
+}
+.bd1 {
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+    background-color: #ffffff;
+    border-width: 2px;
+    padding: 8px;
+}
