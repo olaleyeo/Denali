@@ -1,5 +1,5 @@
-.modal-content {
-    padding: 0px;
+.container-fluid {
+    padding: 0px !important;
 }
 .card-body {
     text-align: center;
@@ -9,4 +9,10 @@
 }
 .form-group{
     text-align: center;
+}
+.btn-dark{
+    height: 30px;
+    width: 150px;
+    border-radius: 0% !important;
+    font-size: 10px !important;
 }
